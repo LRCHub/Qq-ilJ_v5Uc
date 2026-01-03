@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "見たこともない景色",
+  "base_artist": "Masaki Suda",
+  "createdAt": "2026-01-03T07:44:38.667889Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "見たこともない景色",
+      "artist": "SUDA MASAKI",
+      "has_synced": true,
+      "path": "select/01_見たこともない景色_SUDA_MASAKI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "見たこともない景色",
+      "artist": "菅田将暉",
+      "has_synced": true,
+      "path": "select/02_見たこともない景色_菅田将暉.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "見たこともない景色",
+      "artist": "菅田 将暉",
+      "has_synced": true,
+      "path": "select/03_見たこともない景色_菅田_将暉.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "見たこともない景色",
+      "artist": "菅田将暉",
+      "has_synced": true,
+      "path": "select/04_見たこともない景色_菅田将暉.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "見たこともない景色",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_01_見たこともない景色_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "見たこともない景色",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_02_見たこともない景色_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "見たこともない景色",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_03_見たこともない景色_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "見たこともない景色",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_04_見たこともない景色_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "見たこともない景色",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_05_見たこともない景色_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "見たこともない景色",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_06_見たこともない景色_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "見たこともない景色",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_07_見たこともない景色_菅田将暉.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "見たこともない景色",
+      "artist": "菅田将暉",
+      "has_synced": false,
+      "path": "select/pl_08_見たこともない景色_菅田将暉.txt"
+    }
+  ]
+}
